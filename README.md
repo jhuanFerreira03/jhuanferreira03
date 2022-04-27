@@ -1,4 +1,4 @@
-### Console.WriteLine("HELLO WOLRD👋");
+### Console.WriteLine("HELLO WORLD👋");
 
 <!--
 **jhuanFerreira03/jhuanferreira03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
