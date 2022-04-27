@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 E aí, tudo blz?<br>
-Sou o Jhuan, apenas mais um entusiasta de tecnologia e estudante de software! ༼ つ ◕_◕ ༽つ<br><br>
+Sou Jhuan Ferreira, apenas mais um entusiasta de tecnologia e estudante de software! ༼ つ ◕_◕ ༽つ<br><br>
 <strong>Algumas coisas sobre mim</strong>
 - Futuro Engenheiro(moral) de Software;
 - Atualmente estudando C#, Python e SQL;
