@@ -43,7 +43,7 @@ Sou Jhuan Ferreira, apenas mais um entusiasta de tecnologia e estudante de softw
 ##
 <br>
 <div> 
-  <a href="www.google.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="www.linkedin.com/in/jhuan-ferreira-339a4129b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
   
 ##
